@@ -1,4 +1,4 @@
-# Documentación del sistema
+# Documentación del sistema NEXA-STORE
 
 ## 1. Descripción de la aplicación
 
